@@ -49,4 +49,4 @@ GitHub repository URL : https://github.com/SangeethaGnanavel/SVG_Logo_Maker
 
 Email for Question : sangeetha.gnana@gmail.com
 
-Link to video :
+Link to video : https://drive.google.com/file/d/1enG_iYXZgUum81FHjQucifbKrwd-6CAg/view?usp=sharing
